@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        [YouTube] Open Shorts on Default Watch
 // @author      pootz10
+// @namespace   https://www.tampermonkey.net
 // @description redirects shorts link to default watch?v=
 // @match       https://www.youtube.com/shorts/*
 // @version     1.0
