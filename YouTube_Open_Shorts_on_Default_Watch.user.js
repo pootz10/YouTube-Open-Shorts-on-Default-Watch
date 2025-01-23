@@ -6,8 +6,8 @@
 // @version     1.0
 // @history     1.0
 // @license     GNU
-// @updateURL   https://github.com/pootz10/YouTube-Open-Shorts-on-Default-Watch/raw/master/YouTube_Open_Shorts_on_Default_Watch.user.js
-// @downloadURL https://github.com/pootz10/YouTube-Open-Shorts-on-Default-Watch/raw/master/YouTube_Open_Shorts_on_Default_Watch.user.js
+// @updateURL   https://github.com/pootz10/YouTube-Open-Shorts-on-Default-Watch/raw/refs/heads/main/YouTube_Open_Shorts_on_Default_Watch.user.js
+// @downloadURL https://github.com/pootz10/YouTube-Open-Shorts-on-Default-Watch/raw/refs/heads/main/YouTube_Open_Shorts_on_Default_Watch.user.js
 // @grant       GM_openInTab
 // @grant       GM_addStyle
 // @run-at      document-idle
