@@ -4,8 +4,10 @@
 // @namespace   https://www.tampermonkey.net
 // @description redirects shorts link to default watch?v=
 // @match       https://www.youtube.com/shorts/*
-// @version     1.0
-// @history     1.0
+// @exclude     https://www.youtube.com/watch?v=*
+// @exclude     https://youtu.be/*
+// @version     1.1
+// @history     1.1 - added exclude for watch?v= links
 // @license     GNU
 // @updateURL   https://github.com/pootz10/YouTube-Open-Shorts-on-Default-Watch/raw/refs/heads/main/YouTube_Open_Shorts_on_Default_Watch.user.js
 // @downloadURL https://github.com/pootz10/YouTube-Open-Shorts-on-Default-Watch/raw/refs/heads/main/YouTube_Open_Shorts_on_Default_Watch.user.js
